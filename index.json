@@ -1,0 +1,78 @@
+[
+    {
+        "firstName": "juan",
+        "lastName": "edeams",
+        "favHobby": "navigating trecherous terrain",
+        "criminal": true,
+        "dreamCar":[
+            {
+                "carName":"Mitsubishi Lancer Evolution X",
+                "engineCapacity": "2.0",
+                "model": "Mitsubishi"
+            },
+            {
+                "carName":"Polo Vivo",
+                "engineCapacity": "1.6",
+                "model": "volkswagen"
+            }
+            
+        ]
+    },
+    {
+        "firstName": "look",
+        "lastName": "at me",
+        "favHobby": "hunting wild cats",
+        "criminal": true,
+        "dreamCar":[
+            {
+                "carName":"84' corolla SR5",
+                "engineCapacity": "1.6",
+                "model": "Toyota"
+            },
+            {
+                "carName":"Citi Golf GTI",
+                "engineCapacity": "1.8",
+                "model": "Volkswagen"
+            }
+            
+        ]
+    },
+    {
+        "firstName": "wilson",
+        "lastName": "mcgee",
+        "favHobby": "not safe for work",
+        "criminal": false,
+        "dreamCar":[
+            {
+                "carName":"Sparky",
+                "engineCapacity": "1.0",
+                "model": "Cheverolet"
+            },
+            {
+                "carName":"2023 RS3",
+                "engineCapacity": "2.3",
+                "model": "Audi"
+            }
+            
+        ]
+    },
+    {
+        "firstName": "eli",
+        "lastName": "keys",
+        "favHobby": "providing unsolicited services to the unneedy",
+        "criminal": false,
+        "dreamCar":[
+            {
+                "carName":"c200",
+                "engineCapacity": "2.0",
+                "model": "Mercedes"
+            },
+            {
+                "carName":"Espresso",
+                "engineCapacity": "1.0",
+                "model": "Suzuki"
+            }
+            
+        ]
+    }
+]
